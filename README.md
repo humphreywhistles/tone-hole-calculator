@@ -17,11 +17,11 @@ Only change red values as needed for your chosen tubing size and key.
 ## Authors
 
 Arthur Benade
-Pete Kosel
+Peter Hoekje
 Gary Humphrey
 Daniel Bingamon
 
 ## Acknowledgments
 
-Based on Pete Kosel's "Flutomat" which was itself based on the pioneering work of Arthur Benade.
+Based on Peter Hoekje's spreadsheet, which was itself based on the pioneering work of Arthur Benade.
 Tweaked for use by whistle maker Gary Humphrey with input from Daniel Bingamon.
